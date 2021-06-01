@@ -1,5 +1,10 @@
-### Hi there 👋
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Reytler Souza</B></h3>
+<hr>
 
+<br>
+<br>
+
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=reytler.visitor-badge)](https://github.com/reytler)
 <!--
 **reytler/reytler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
