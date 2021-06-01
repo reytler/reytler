@@ -17,6 +17,14 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+![Reytler's Github stats](https://github-readme-stats.vercel.app/api?username=reytler&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reytler&layout=compact&theme=tokyonight)](https://github.com/reytler)
 <!--
 **reytler/reytler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
