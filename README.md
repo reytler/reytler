@@ -13,7 +13,7 @@
 <br>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
 <!--
