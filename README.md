@@ -23,7 +23,7 @@
 ## &#x1f4c8; GitHub Stats
 
 ![Reytler's Github stats](https://github-readme-stats.vercel.app/api?username=reytler&show_icons=true&theme=tokyonight)
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=reytler&layout=compact&theme=dracula)
 <!--
 **reytler/reytler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
