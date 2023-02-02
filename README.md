@@ -6,7 +6,7 @@
 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=reytler.visitor-badge)](https://github.com/reytler)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reytler)](https://github.com/reytler)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reytlersouza-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvSlndgfqTUG3kFd%2ByQmKhA%3D%3D)](https://www.linkedin.com/in/reytlersouza/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reytlersouza-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvSlndgfqTUG3kFd%2ByQmKhA%3D%3D)](https://www.linkedin.com/in/reytlersouza-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reytlersouza@gmail.com)](mailto:reytlersouza@gmail.com)
 
 <br>
