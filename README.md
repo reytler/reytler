@@ -1,47 +1,64 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Reytler Souza</B></h3>
-<hr>
+# 👋 Olá, eu sou o Reytler Souza  
+**Product Engineer | Software Engineer Sênior | B2B SaaS**
 
-<br>
-<br>
+Sou um engenheiro de software orientado a produto, com experiência em evoluir sistemas reais ao longo do tempo, equilibrando qualidade técnica, velocidade de entrega e impacto no negócio. Atuo próximo a Produto, UX e stakeholders para transformar necessidades reais em soluções simples, escaláveis e sustentáveis.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reytler)](https://github.com/reytler)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reytlersouza-programador/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvSlndgfqTUG3kFd%2ByQmKhA%3D%3D)](https://www.linkedin.com/in/reytlersouza-programador/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:reytlercompare@hotmail.com)](mailto:reytlercompare@hotmail.com)
+Minha atuação vai além de escrever código: me preocupo com **usabilidade, métricas, manutenção, custo operacional e evolução contínua do produto**.
 
-<br>
-<br>
+---
 
-## 🔧 Technologies & Tools
+## 🧭 Mentalidade de Produto
+- Entendimento profundo do problema antes da solução  
+- Decisões técnicas guiadas por impacto no usuário e no negócio  
+- Código como ativo de longo prazo (manutenibilidade > hype)  
+- Evolução incremental, evitando overengineering  
+- Forte foco em confiabilidade, observabilidade e experiência do usuário  
 
-[![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## 🚀 Projeto em Destaque: **check-links**
 
+Ferramenta criada para validar links e rotas de aplicações web de forma automatizada, reutilizável e independente de interface.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Por que esse projeto existe?
+Em muitos produtos, a validação de links fica acoplada à UI, o que dificulta:
+- Reuso da lógica em CLI, workers ou APIs
+- Testes automatizados sem dependência de browser
+- Evolução do domínio sem quebrar a interface
 
-<br>
-<br>
-<!--
-**reytler/reytler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O **check-links** nasceu para resolver esse problema com uma abordagem orientada a produto e arquitetura limpa.
 
-Here are some ideas to get you started:
+### O que o projeto faz
+- Inicia o scan a partir de uma URL base  
+- Navega pelas páginas respeitando profundidade e limites configuráveis  
+- Ignora links inválidos, rotas sensíveis ou padrões definidos  
+- Gera um relatório JSON estruturado com métricas claras  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Destaques técnicos
+- Core desacoplado da UI (pode ser usado em CLI, API ou worker)
+- Separação clara de responsabilidades (crawler, validações, relatório)
+- Injeção de dependência para facilitar testes
+- Testes unitários focados no domínio, não na interface
+- Arquitetura pensada para evolução do produto
+
+### Stack
+- TypeScript
+- Playwright / Puppeteer
+- Arquitetura modular
+- Testes automatizados
+
+Esse projeto reflete bem minha forma de trabalhar: **resolver um problema real, pensando no ciclo de vida do produto, não apenas na entrega imediata**.
+
+---
+
+## 🛠 Stack Principal
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** C#, .NET, Node.js  
+**Dados:** SQL Server, PostgreSQL, MySql  
+**Infra:** Docker, CI/CD, Cloud  
+**Qualidade:** Testes automatizados, Clean Code, SOLID  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/reytlersouza-programador/
