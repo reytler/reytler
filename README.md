@@ -16,11 +16,11 @@ Minha atuação vai além de escrever código: me preocupo com **usabilidade, m�
 
 ---
 
-## 🚀 Projeto em Destaque: **check-links**
+## 🚀 Produto em Destaque: **check-links**
 
 Ferramenta criada para validar links e rotas de aplicações web de forma automatizada, reutilizável e independente de interface.
 
-### Por que esse projeto existe?
+### Por que esse produto existe?
 Em muitos produtos, a validação de links fica acoplada à UI, o que dificulta:
 - Reuso da lógica em CLI, workers ou APIs
 - Testes automatizados sem dependência de browser
@@ -28,7 +28,7 @@ Em muitos produtos, a validação de links fica acoplada à UI, o que dificulta:
 
 O **check-links** nasceu para resolver esse problema com uma abordagem orientada a produto e arquitetura limpa.
 
-### O que o projeto faz
+### O que o produto deve fazer
 - Inicia o scan a partir de uma URL base  
 - Navega pelas páginas respeitando profundidade e limites configuráveis  
 - Ignora links inválidos, rotas sensíveis ou padrões definidos  
@@ -47,7 +47,7 @@ O **check-links** nasceu para resolver esse problema com uma abordagem orientada
 - Arquitetura modular
 - Testes automatizados
 
-Esse projeto reflete bem minha forma de trabalhar: **resolver um problema real, pensando no ciclo de vida do produto, não apenas na entrega imediata**.
+Esse produto reflete bem minha forma de trabalhar: **resolver um problema real, pensando no ciclo de vida do produto, não apenas na entrega imediata**.
 
 ---
 
@@ -62,3 +62,4 @@ Esse projeto reflete bem minha forma de trabalhar: **resolver um problema real, 
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/reytlersouza-programador/
+- E-mail: reytlercompare@hotmail.com
