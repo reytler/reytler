@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Reytler Souza  
 **Product Engineer | Software Engineer Sênior | B2B SaaS**
 
-Sou um engenheiro de software orientado a produto, com experiência em evoluir sistemas reais ao longo do tempo, equilibrando qualidade técnica, velocidade de entrega e impacto no negócio. Atuo próximo a Produto, UX e stakeholders para transformar necessidades reais em soluções simples, escaláveis e sustentáveis.
+Sou um engenheiro de software orientado a produto, com mais de 7 anos de experiência como desenvolvedor.
+Trabalho com foco evoluir sistemas reais ao longo do tempo, equilibrando qualidade técnica, velocidade de entrega e impacto no negócio. Atuo próximo a Produto, UX e stakeholders para transformar necessidades reais em soluções simples, escaláveis e sustentáveis.
 
 Minha atuação vai além de escrever código: me preocupo com **usabilidade, métricas, manutenção, custo operacional e evolução contínua do produto**.
 
@@ -14,48 +15,11 @@ Minha atuação vai além de escrever código: me preocupo com **usabilidade, m�
 - Evolução incremental, evitando overengineering  
 - Forte foco em confiabilidade, observabilidade e experiência do usuário  
 
----
-
-## 🚀 Produto em Destaque: **check-links**
-
-Ferramenta criada para validar links e rotas de aplicações web de forma automatizada, reutilizável e independente de interface.
-
-### Por que esse produto existe?
-Em muitos produtos, a validação de links fica acoplada à UI, o que dificulta:
-- Reuso da lógica em CLI, workers ou APIs
-- Testes automatizados sem dependência de browser
-- Evolução do domínio sem quebrar a interface
-
-O **check-links** nasceu para resolver esse problema com uma abordagem orientada a produto e arquitetura limpa.
-
-### O que o produto deve fazer
-- Inicia o scan a partir de uma URL base  
-- Navega pelas páginas respeitando profundidade e limites configuráveis  
-- Ignora links inválidos, rotas sensíveis ou padrões definidos  
-- Gera um relatório JSON estruturado com métricas claras  
-
-### Destaques técnicos
-- Core desacoplado da UI (pode ser usado em CLI, API ou worker)
-- Separação clara de responsabilidades (crawler, validações, relatório)
-- Injeção de dependência para facilitar testes
-- Testes unitários focados no domínio, não na interface
-- Arquitetura pensada para evolução do produto
-
-### Stack
-- TypeScript
-- Playwright / Puppeteer
-- Arquitetura modular
-- Testes automatizados
-
-Esse produto reflete bem minha forma de trabalhar: **resolver um problema real, pensando no ciclo de vida do produto, não apenas na entrega imediata**.
-
----
-
 ## 🛠 Stack Principal
-**Frontend:** React, Next.js, TypeScript  
-**Backend:** C#, .NET, Node.js  
-**Dados:** SQL Server, PostgreSQL, MySql  
-**Infra:** Docker, CI/CD, Cloud  
+**Frontend:** React(6 anos), Next.js(5 anos), TypeScript  
+**Backend:** C#, .NET(5 anos), Node.js(7 anos)
+**Dados:** SQL Server(10 anos), PostgreSQL, MySql(10 anos)  
+**Infra:** Docker(7 anos), CI/CD, Cloud  
 **Qualidade:** Testes automatizados, Clean Code, SOLID  
 
 ---
